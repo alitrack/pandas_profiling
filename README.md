@@ -43,4 +43,4 @@ A workaround is to monkypatch the _multiprocessing module:
   from multiprocessing.pool import ThreadPool
 ```
 
-code from [here]((https://github.com/pyodide/pyodide/issues/1603))
+for details, please visit [here](https://github.com/pyodide/pyodide/issues/1603).
